@@ -39,10 +39,7 @@ Discord существуют сотни серверных ботов, кото�
 
 Но самым основным, полным и удобным является **[Discord Bots Catalog](https://top-bots.xyz)**
 
-<h1> 
-
-[Discord Bots List](https://top-bots.xyz)
-</h1>
+<h1><a href="https://top-bots.xyz">Discord Bots List</a></h1>
 
 
 
