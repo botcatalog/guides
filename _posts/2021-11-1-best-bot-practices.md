@@ -1,7 +1,7 @@
 ---
 title: "Best practices for Discord bots"
 date: 2021-11-01 19:00:00 +0300
-categories: ["advices"]
+categories: ["Advices"]
 tags: ["bots","discord","bots-advice","how-to-get-approve"]
 pin: true
 published: true
