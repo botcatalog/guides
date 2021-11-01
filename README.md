@@ -1,46 +1,54 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+# Welcome!
+Hey! You're probably here because you want to submit your guide to this site.
+And first thing I want to say: WELCOME! I'm very glad to see you there!
+Your work is greatly appreciated, even if this is another guide to setting up another bot.
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+# Where can I submit?
+To submit your guide go to **[creating new file on this project's GitHub page](https://github.com/botcatalog/guides/new/main/_posts)**
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+# Naming 
+After logging in GitHub, look at the "Name your file" field 
+![Name Field](/assets/posts/name_field.png)
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
+Your post must have name that matches this pattern: ``YEAR-MONTH-DAY-<TITLE>`` (ex. ``2021-11-1-how-to-submit-guides.md``)
+
+# Post metadata
+
+You post should start with this part:
+```yaml
+---
+title: "Your post title"
+categories: ["Your", "post", "categories"]
+date: YEAR-MONTH-DAY HOUR:MINUTE:SECOND +(-)TIMEZONE
+tags: ["your", "post", "tags"]
+---
+```
+Don't forget to replace placeholder with your post's actual title, categories, tags and date!
+
+Example (this post's metadata):
+```yaml
+---
+title: "How to submit guides"
+categories: ["Guides","This platform"]
+tags: ["guides", "writing-guide","how-to-write"]
+date: 2021-11-1 20:50:00 +0300 # +0300 - UTC+3
+---
 ```
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+# Writing content
 
-## Prerequisites
+Your content is placed after your meta information.
+Content on this platform is written using markdown, if you're not familiar with markdown, then read [Markdown Mastering Guide](https://guides.github.com/features/mastering-markdown/) from GitHub.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+If you need full example, then [just look at this guide's content](https://raw.githubusercontent.com/botcatalog/guides/main/_posts/2021-11-1-how-to-submit-guides.md)
 
-## Installation
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
-Then clone it to your local machine and run:
+# Finish
+> Don't forget to include link to your bot on https://top-bots.xyz (if you have one) in commit description, because your bot will **GET 25 BOOSTS FOR EVERY POST YOU WRITE!** Absolutely free!
 
-```
-$ bundle
-```
+Then click on green "Purpose changes" button to submit your post
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#usage).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Thanks for reading my guide!
+I wish you creativity and an interesting story!
