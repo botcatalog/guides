@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Best practices for Discord bots"
-date: '2021-11-01 20:00:00 -0400'
-categories: advices
+date: 2021-11-01 20:00:00 -0400
+categories: [advices]
+tags: ["bots","discord","bots-advice","how-to-get-approve"]
 ---
 
 # Best practices for Discord bots
