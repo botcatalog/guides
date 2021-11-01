@@ -52,8 +52,12 @@ Content on this platform is written using markdown, if you're not familiar with 
 
 If you need full example, then [just look at this guide's content](https://raw.githubusercontent.com/botcatalog/guides/main/_posts/2021-11-1-how-to-submit-guides.md)
 
-# Finish
-Thanks for reading!
-Don't forget to include link to your bot on https://top-bots.xyz (if you have one) in commit description, because your bot will **GET 25 BOOSTS FOR EVERY POST YOU WRITE!** Absolutely free!
 
+
+# Finish
+> Don't forget to include link to your bot on https://top-bots.xyz (if you have one) in commit description, because your bot will **GET 25 BOOSTS FOR EVERY POST YOU WRITE!** Absolutely free!
+
+Then click on green "Purpose changes" button to submit your post
+
+Thanks for reading my guide!
 I wish you creativity and an interesting story!
