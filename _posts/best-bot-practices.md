@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Best practices for Discord bots"
+date: '2021-11-01 20:00:00 -0400'
+categories: advices
 ---
 
 # Best practices for Discord bots
