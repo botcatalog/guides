@@ -4,6 +4,7 @@ date: 2021-11-01 20:00:00 -0400
 categories: [advices]
 tags: ["bots","discord","bots-advice","how-to-get-approve"]
 pin: true
+published: true
 ---
 
 # Best practices for Discord bots
