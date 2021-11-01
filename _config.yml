@@ -20,10 +20,10 @@ timezone: Europe/Kyiv
 
 title: Discord Guides                 # the main title
 
-tagline: Guides and documentation by Discord Bots Catalog   # it will display as the sub-title
+tagline: Guides and documentation by Find a Discord and Discord Bots Catalog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- Guides about discord and discord bots from top-bots.xyz community. How to discord | Discord Guides
+ Guides about discord and discord bots from findadiscord.com and top-bots.xyz community. How to discord | Discord Guides
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://guides.top-bots.xyz'
