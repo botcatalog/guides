@@ -6,7 +6,7 @@ title:  "Best practices for Discord bots"
 # Best practices for Discord bots
 
 
-> ### Notice:<span style="color:orangered"> Compliance with these rules DOES NOT guarantee that your bot will be accepted on the Discord Bots Catalog, but significantly increases the chances of this. This also works in reverse direction: If some bot doesn't comply with one not very important rule, it still can be approved (but chances of this is less than with compliance with all rules)</span>
+> ### Notice:<span style="color:orangered"> Compliance with these rules DOES NOT guarantee that your bot will be accepted on the [**Discord Bots Catalog**](https://top-bots.xyz), but significantly increases the chances of this. This also works in reverse direction: If some bot doesn't comply with one not very important rule, it still can be approved (but chances of this is less than with compliance with all rules)</span>
 
 1. **Commands should be explicitly invoked**. Bots should not activate on
 normal chat. Instead, use a command prefix or only respond when your bot is
