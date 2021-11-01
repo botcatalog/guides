@@ -3,7 +3,7 @@ title: "How to submit guides"
 categories: ["Guides","This platform"]
 tags: ["guides", "writing-guide","how-to-write"]
 description: "In this guide you'll learn about how to submit your own guides here"
-date: 2021-11-1 20-50-00 +0300
+date: 2021-11-1 20:50:00 +0300
 pin: true
 published: true
 ---
@@ -29,7 +29,7 @@ You post should start with this part:
 ---
 title: "Your post title"
 categories: ["Your", "post", "categories"]
-date: YEAR-MONTH-DAY HOUR-MINUTE-SECOND +(-)TIMEZONE
+date: YEAR-MONTH-DAY HOUR:MINUTE:SECOND +(-)TIMEZONE
 tags: ["your", "post", "tags"]
 ---
 ```
@@ -41,7 +41,7 @@ Example (this post's metadata):
 title: "How to submit guides"
 categories: ["Guides","This platform"]
 tags: ["guides", "writing-guide","how-to-write"]
-date: 2021-11-1 20-50-00 +0300 # +0300 - UTC+3
+date: 2021-11-1 20:50:00 +0300 # +0300 - UTC+3
 ---
 ```
 
