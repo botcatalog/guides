@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
  Guides about discord and discord bots from findadiscord.com and top-bots.xyz community. How to discord | Discord Guides
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://guides.top-bots.xyz'
+url: 'https://guides.discord.plus'
 
 github:
   username: botcatalog         # change to your github username
