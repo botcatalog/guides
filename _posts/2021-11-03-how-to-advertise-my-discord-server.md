@@ -21,14 +21,22 @@ I was amazed at the simplicity of adding a server: no bots and eternal invites, 
 So, steps:
 1. Go to [Discord Servers](https://findadiscord.com)
 2. Press "Log in" in the top navigation bar 
+
 ![Log in button screenshot](https://user-images.githubusercontent.com/40735471/140190942-310aeb66-dc69-4a3c-9aa4-1e093ce80da8.png)
+
 3. Log in
 4. Press on your username and avatar 
+
 ![discord username and avatar](https://user-images.githubusercontent.com/40735471/140185562-0ddad4ec-f7e2-4d15-a774-4051386f3f60.png)
+
 5. Tap on "Add server" 
+
 ![add discord server](https://user-images.githubusercontent.com/40735471/140185777-92284ebb-f6cb-4d80-abbd-155709e8c14f.png)
+
 6. Select server you want to grow 
+
 ![select discord guild](https://user-images.githubusercontent.com/40735471/140185899-d2785389-8967-4c7d-8fdb-a8db83c0b6dd.png)
+
 7. Follow instructions about how to enable widget:
   - Go to your server's server settings 
 ![server settings](https://user-images.githubusercontent.com/40735471/140186413-50bf437e-7793-48b1-a825-1581ebd99d7a.png)
