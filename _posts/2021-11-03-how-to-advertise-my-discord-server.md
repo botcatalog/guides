@@ -21,7 +21,7 @@ I was amazed at the simplicity of adding a server: no bots and eternal invites, 
 So, steps:
 1. Go to [Discord Servers](https://findadiscord.com)
 2. Press "Log in" in the top navigation bar 
-![Log in button screenshot](https://user-images.githubusercontent.com/40735471/140185120-bbde6ad3-6f83-4afa-89e5-7b41c3bad4c8.png)
+![Log in button screenshot](https://user-images.githubusercontent.com/40735471/140190942-310aeb66-dc69-4a3c-9aa4-1e093ce80da8.png)
 3. Log in
 4. Press on your username and avatar 
 ![discord username and avatar](https://user-images.githubusercontent.com/40735471/140185562-0ddad4ec-f7e2-4d15-a774-4051386f3f60.png)
