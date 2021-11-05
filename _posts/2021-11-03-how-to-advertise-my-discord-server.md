@@ -1,3 +1,4 @@
+---
 title: "How to advertise discord server"
 categories: ["Guides","Advertising","Discord","Servers","Discord Servers"]
 tags: ["guides", "advertise","promote","discord","promote-discord"]
